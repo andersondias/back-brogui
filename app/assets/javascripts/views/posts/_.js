@@ -1,0 +1,1 @@
+Brogui.Views.Posts = {}

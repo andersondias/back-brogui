@@ -1,0 +1,1 @@
+class Brogui.Models.Post extends Backbone.Model
